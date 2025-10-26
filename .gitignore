@@ -16,3 +16,4 @@ venv/
 models/*.zip
 models/*.joblib
 models/*.npy
+models/goemotions_model/
