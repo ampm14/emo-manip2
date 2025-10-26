@@ -1,0 +1,18 @@
+# bytecode
+__pycache__/
+*.py[cod]
+
+# environments
+.venv/
+env/
+venv/
+
+# IDE noise
+.DS_Store
+.idea/
+.vscode/
+
+# model artifacts (large)
+models/*.zip
+models/*.joblib
+models/*.npy
