@@ -10,7 +10,7 @@ Runs full inference and analytics through a single script on Ubuntu.
 ## Setup
 
 ```bash
-git clone https://github.com/<yourusername>/emo-manip2.git
+git clone https://github.com/ampm14/emo-manip2.git
 cd emo-manip2
 python3 -m venv .venv
 source .venv/bin/activate
