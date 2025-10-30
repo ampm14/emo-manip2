@@ -13,8 +13,8 @@ venv/
 .vscode/
 
 # model artifacts (large)
-models/*.zip
-models/*.joblib
-models/*.npy
-models/goemotions_model/
-models/rafdb/
+# models/*.zip
+# models/*.joblib
+# models/*.npy
+# models/goemotions_model/
+# models/rafdb/
