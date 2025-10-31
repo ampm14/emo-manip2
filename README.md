@@ -54,15 +54,6 @@ Generated files include:
 
 ---
 
-## Notes
-
-* Requires `ffmpeg` and Python 3.10+.
-* Run from project root.
-* Outputs saved under `outputs/<video_name>/`.
-* GPU recommended; falls back to CPU if unavailable.
-
----
-
 ## Quick Run Example
 
 ```bash
